@@ -1,0 +1,204 @@
+{
+    "products":{
+      "cloud-s":{
+        "name":"Gestito Small",
+        "description":"Per blog e siti che richiedono velocità",
+        "image":"https://cdn.moocloud.ch/image.svg",
+        "tag":[
+          "Intel",
+          "Cloud"
+        ],
+        "price":{
+          "EUR":{
+            "montly":18.49,
+            "annually":203.39
+          },
+          "CHF":{
+            "montly":19.99,
+            "annually":229.99
+          },
+          "specs":{
+            "progress-bar":[
+              {
+                "text":"~30/40 Visite al minuto",
+                "percentual":30
+              },
+              {
+                "text":"1 vCore Xeon Gold",
+                "percentual":20
+              },
+              {
+                "text":"2GB RAM DDR4",
+                "percentual":10
+              },
+              {
+                "text":"20GB SSD NVMe",
+                "percentual":10
+              }
+            ]
+          },
+          "product-id":"sd4578s02374302dshfkds"
+        }
+      },
+      "cloud-m":{
+        "name":"Gestito Medium",
+        "description":"Per blog e siti che richiedono velocità",
+        "image":"https://cdn.moocloud.ch/image.svg",
+        "tag":[
+          "Intel",
+          "Cloud"
+        ],
+        "price":{
+          "EUR":{
+            "montly":18.49,
+            "annually":203.39
+          },
+          "CHF":{
+            "montly":19.99,
+            "annually":229.99
+          },
+          "specs":{
+            "progress-bar":[
+              {
+                "text":"~30/40 Visite al minuto",
+                "percentual":30
+              },
+              {
+                "text":"1 vCore Xeon Gold",
+                "percentual":20
+              },
+              {
+                "text":"2GB RAM DDR4",
+                "percentual":10
+              },
+              {
+                "text":"20GB SSD NVMe",
+                "percentual":10
+              }
+            ]
+          },
+          "product-id":"sd4578s02374302dshfkds"
+        }
+      },
+      "cloud-l":{
+        "name":"Gestito Medium",
+        "description":"Per blog e siti che richiedono velocità",
+        "image":"https://cdn.moocloud.ch/image.svg",
+        "tag":[
+          "Intel",
+          "Cloud"
+        ],
+        "price":{
+          "EUR":{
+            "montly":18.49,
+            "annually":203.39
+          },
+          "CHF":{
+            "montly":19.99,
+            "annually":229.99
+          },
+          "specs":{
+            "progress-bar":[
+              {
+                "text":"~30/40 Visite al minuto",
+                "percentual":30
+              },
+              {
+                "text":"1 vCore Xeon Gold",
+                "percentual":20
+              },
+              {
+                "text":"2GB RAM DDR4",
+                "percentual":10
+              },
+              {
+                "text":"20GB SSD NVMe",
+                "percentual":10
+              }
+            ]
+          },
+          "product-id":"sd4578s02374302dshfkds"
+        }
+      },
+      "cloud-xl":{
+        "name":"Gestito Medium",
+        "description":"Per blog e siti che richiedono velocità",
+        "image":"https://cdn.moocloud.ch/image.svg",
+        "tag":[
+          "Intel",
+          "Cloud"
+        ],
+        "price":{
+          "EUR":{
+            "montly":18.49,
+            "annually":203.39
+          },
+          "CHF":{
+            "montly":19.99,
+            "annually":229.99
+          },
+          "specs":{
+            "progress-bar":[
+              {
+                "text":"~30/40 Visite al minuto",
+                "percentual":30
+              },
+              {
+                "text":"1 vCore Xeon Gold",
+                "percentual":20
+              },
+              {
+                "text":"2GB RAM DDR4",
+                "percentual":10
+              },
+              {
+                "text":"20GB SSD NVMe",
+                "percentual":10
+              }
+            ]
+          },
+          "product-id":"sd4578s02374302dshfkds"
+        }
+      },
+      "cloud-xxl":{
+        "name":"Gestito Medium",
+        "description":"Per blog e siti che richiedono velocità",
+        "image":"https://cdn.moocloud.ch/image.svg",
+        "tag":[
+          "Intel",
+          "Cloud"
+        ],
+        "price":{
+          "EUR":{
+            "montly":18.49,
+            "annually":203.39
+          },
+          "CHF":{
+            "montly":19.99,
+            "annually":229.99
+          },
+          "specs":{
+            "progress-bar":[
+              {
+                "text":"~30/40 Visite al minuto",
+                "percentual":30
+              },
+              {
+                "text":"1 vCore Xeon Gold",
+                "percentual":20
+              },
+              {
+                "text":"2GB RAM DDR4",
+                "percentual":10
+              },
+              {
+                "text":"20GB SSD NVMe",
+                "percentual":10
+              }
+            ]
+          },
+          "product-id":"sd4578s02374302dshfkds"
+        }
+      }
+    }
+  }

@@ -1,0 +1,1796 @@
+{
+    "data": [
+        {
+            "id": "ca.scrumblr.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/ca.scrumblr.cloudronapp/versions/1.1.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "scrum",
+                "kanban",
+                "postit",
+                "whiteboard"
+            ],
+            "title": "scrumblr",
+            "tagline": "Agile kanban board",
+            "apps_store_manifests": [
+                "b830d5ba-d9dd-4f83-94c3-0261e5f39854"
+            ]
+        },
+        {
+            "id": "chat.rocket.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/chat.rocket.cloudronapp/versions/2.23.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "chat",
+                "webchat",
+                "slack",
+                "teams"
+            ],
+            "title": "Rocket.Chat",
+            "tagline": "The Complete Open Source Chat Solution",
+            "apps_store_manifests": [
+                "f71142d3-ed93-482c-b62b-aa36cebf97f6"
+            ]
+        },
+        {
+            "id": "com.adguard.home.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.adguard.home.cloudronapp/versions/1.3.3/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "pihole",
+                "adblock",
+                "ublock",
+                "privacy",
+                "dns"
+            ],
+            "title": "AdGuard Home",
+            "tagline": "Privacy protection center for you and your devices",
+            "apps_store_manifests": [
+                "810b36b0-fccd-4028-9dd4-cda77ece3204"
+            ]
+        },
+        {
+            "id": "com.astralapp.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.astralapp.cloudronapp/versions/1.1.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "github",
+                "stars",
+                "tags"
+            ],
+            "title": "Astral",
+            "tagline": "Organize Your GitHub Stars With Ease",
+            "apps_store_manifests": [
+                "1e0333b6-2fb3-4be6-8207-8ecded20af3f"
+            ]
+        },
+        {
+            "id": "com.atlassian.confluence",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.atlassian.confluence/versions/2.16.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "wiki",
+                "knowledge",
+                "collaboration",
+                "team",
+                "project",
+                "sharepoint"
+            ],
+            "title": "Confluence",
+            "tagline": "Team Collaboration Software",
+            "apps_store_manifests": [
+                "cbb87c9c-2d16-42b4-bb90-98134b0d40df"
+            ]
+        },
+        {
+            "id": "com.bookstackapp.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.bookstackapp.cloudronapp/versions/1.16.2/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "wiki",
+                "docs",
+                "knowledge base",
+                "confluence",
+                "sharepoint"
+            ],
+            "title": "BookStack",
+            "tagline": "Simple & Free Wiki Software",
+            "apps_store_manifests": [
+                "35abfbfe-667f-413d-a03b-f24c039f1020"
+            ]
+        },
+        {
+            "id": "com.chatwoot.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.chatwoot.cloudronapp/versions/1.1.1/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "rails",
+                "zendesk",
+                "vuejs",
+                "opensource",
+                "customer support",
+                "conversation",
+                "whatsapp",
+                "intercom",
+                "livechat",
+                "drift",
+                "chat-widget",
+                "chatwoot",
+                "crm"
+            ],
+            "title": "Chatwoot",
+            "tagline": "Open-source customer engagement suite",
+            "apps_store_manifests": [
+                "720163a0-53db-4cb3-b8ac-0b5939d5d0a9"
+            ]
+        },
+        {
+            "id": "com.collaboraoffice.coudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.collaboraoffice.coudronapp/versions/1.11.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "office",
+                "nextcloud",
+                "collaboration",
+                "document",
+                "docs"
+            ],
+            "title": "CODE",
+            "tagline": "Collabora Online Developer Edition",
+            "apps_store_manifests": [
+                "f97770bc-6276-4197-8fca-05a33f753dfb"
+            ]
+        },
+        {
+            "id": "com.docker.registry",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.docker.registry/versions/1.4.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "docker",
+                "registry",
+                "harbor",
+                "devtools"
+            ],
+            "title": "Docker Registry",
+            "tagline": "Docker toolset to pack, ship, store, and deliver content",
+            "apps_store_manifests": [
+                "99cfe9a8-3de4-401a-8292-c19c777dd0c7"
+            ]
+        },
+        {
+            "id": "com.electerious.ackee",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.electerious.ackee/versions/1.3.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "analytics",
+                "tracker"
+            ],
+            "title": "Ackee",
+            "tagline": "Track without being tracked",
+            "apps_store_manifests": [
+                "1c42e4c0-1aac-457d-9b84-a273272e2ee2"
+            ]
+        },
+        {
+            "id": "com.electerious.lychee.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.electerious.lychee.cloudronapp/versions/2.6.3/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "gallery",
+                "photo",
+                "pictures",
+                "images",
+                "media",
+                "instagram"
+            ],
+            "title": "Lychee",
+            "tagline": "Photo management done right",
+            "apps_store_manifests": [
+                "cbfb428f-879b-4688-a1a6-eecb25126743"
+            ]
+        },
+        {
+            "id": "com.espocrm.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.espocrm.cloudronapp/versions/2.1.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "crm",
+                "salesforce",
+                "sugarcrm",
+                "suitecrm"
+            ],
+            "title": "Espo CRM",
+            "tagline": "Increase profitability through customer loyalty",
+            "apps_store_manifests": [
+                "e9af00c3-395b-4c6b-a0ce-35ec1874dbcd"
+            ]
+        },
+        {
+            "id": "com.github.bitwardenrs",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.github.bitwardenrs/versions/1.7.4/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "password",
+                "bitwarden",
+                "lastpass",
+                "manager"
+            ],
+            "title": "Vaultwarden",
+            "tagline": "Rust implementation of the Bitwarden API",
+            "apps_store_manifests": [
+                "59899494-e4e7-44be-a056-3e0433625734"
+            ]
+        },
+        {
+            "id": "com.github.cloudtorrent",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.github.cloudtorrent/versions/2.6.9/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "torrent",
+                "magnet",
+                "download",
+                "bittorrent",
+                "transmission"
+            ],
+            "title": "Simple Torrent",
+            "tagline": "Easy to use remote torrent client",
+            "apps_store_manifests": [
+                "d83178a0-a68e-42f6-8839-b2f0733e5378"
+            ]
+        },
+        {
+            "id": "com.github.shaarli",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.github.shaarli/versions/2.10.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "bookmark",
+                "delicous"
+            ],
+            "title": "Shaarli",
+            "tagline": "The personal, minimalist, bookmarking service",
+            "apps_store_manifests": [
+                "83d57909-5bd8-4141-af06-846d9fe56bf9"
+            ]
+        },
+        {
+            "id": "com.github.trilium.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.github.trilium.cloudronapp/versions/1.5.5/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "notes",
+                "personal",
+                "evernote",
+                "wiki",
+                "knowledge base"
+            ],
+            "title": "Trilium Notes",
+            "tagline": "Personal knowledge base",
+            "apps_store_manifests": [
+                "44961bdf-27f7-42b7-a73a-e43927593c1b"
+            ]
+        },
+        {
+            "id": "com.gitlab.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.gitlab.cloudronapp/versions/1.58.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "version control",
+                "git",
+                "code hosting",
+                "development",
+                "github",
+                "bitbucket"
+            ],
+            "title": "GitLab",
+            "tagline": "Create, review and deploy code together",
+            "apps_store_manifests": [
+                "47e20ade-1ad3-4bb8-9c2b-4d0102da7537"
+            ]
+        },
+        {
+            "id": "com.grafana.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.grafana.cloudronapp/versions/1.9.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "monitoring",
+                "graphs",
+                "analytics"
+            ],
+            "title": "Grafana",
+            "tagline": "Platform for monitoring and observability",
+            "apps_store_manifests": [
+                "7b7feae2-ddfa-47b4-bac2-41d4b4ba16b1"
+            ]
+        },
+        {
+            "id": "com.hastebin.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.hastebin.cloudronapp/versions/1.5.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "paste",
+                "development"
+            ],
+            "title": "Hastebin",
+            "tagline": "The Elegant Pastebin",
+            "apps_store_manifests": [
+                "2a914517-0bbb-4424-8370-470d1cef889f"
+            ]
+        },
+        {
+            "id": "com.invoiceninja.cloudronapp2",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.invoiceninja.cloudronapp2/versions/1.3.5/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "invoice",
+                "expense",
+                "quote",
+                "finance"
+            ],
+            "title": "Invoice Ninja v5",
+            "tagline": "Invoice from anywhere get paid from everywhere",
+            "apps_store_manifests": [
+                "20d8a291-b21c-42c1-847c-21b018d31f04"
+            ]
+        },
+        {
+            "id": "com.kopano.meet.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.kopano.meet.cloudronapp/versions/1.2.4/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "webrtc",
+                "meeting",
+                "web meeting",
+                "zoom"
+            ],
+            "title": "Kopano Meet",
+            "tagline": "Secure and easy-to-use video conferencing",
+            "apps_store_manifests": [
+                "07292d40-5cc4-4baf-af91-5a8a178b80e0"
+            ]
+        },
+        {
+            "id": "com.metabase.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.metabase.cloudronapp/versions/1.11.4/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "data",
+                "analytics",
+                "visualization",
+                "redash",
+                "bi",
+                "tableau"
+            ],
+            "title": "Metabase",
+            "tagline": "Ask questions and learn from data",
+            "apps_store_manifests": [
+                "1c670360-f37f-4588-aca9-6ac435bb30b6"
+            ]
+        },
+        {
+            "id": "com.monicahq.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.monicahq.cloudronapp/versions/1.33.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "social",
+                "crm",
+                "prm",
+                "blog",
+                "notes",
+                "diary"
+            ],
+            "title": "MonicaHQ",
+            "tagline": "Remember everything about friends and family",
+            "apps_store_manifests": [
+                "204ebf0f-ec7e-4673-8f70-461ccac1d95c"
+            ]
+        },
+        {
+            "id": "com.nextcloud.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.nextcloud.cloudronapp/versions/4.11.3/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "sync",
+                "file sharing",
+                "files",
+                "gallery",
+                "dropbox"
+            ],
+            "title": "Nextcloud",
+            "tagline": "A safe home for all your data",
+            "apps_store_manifests": [
+                "46a43396-411e-427b-8102-17a61fcbec3d"
+            ]
+        },
+        {
+            "id": "com.onlyoffice.coudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.onlyoffice.coudronapp/versions/1.9.5/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "office",
+                "nextcloud",
+                "collaboration",
+                "document",
+                "googledocs",
+                "office365"
+            ],
+            "title": "ONLYOFFICE Docs",
+            "tagline": "Open source office and productivity suite",
+            "apps_store_manifests": [
+                "2aa40228-4c13-40fb-b5e2-3a0cacf35c0a"
+            ]
+        },
+        {
+            "id": "com.osticket.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.osticket.cloudronapp/versions/1.4.4/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "support",
+                "helpdesk",
+                "zendesk",
+                "salesforce"
+            ],
+            "title": "osTicket",
+            "tagline": "Make. Happy. Customers.",
+            "apps_store_manifests": [
+                "89d5e329-879f-4d62-b341-cff44ca5c0e1"
+            ]
+        },
+        {
+            "id": "com.rssbridgeapp.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.rssbridgeapp.cloudronapp/versions/1.0.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "rss",
+                "bridge"
+            ],
+            "title": "RSS-Bridge",
+            "tagline": "The RSS feed for websites missing it",
+            "apps_store_manifests": [
+                "30ebef59-3f18-4c2f-87be-b4a45059b00e"
+            ]
+        },
+        {
+            "id": "com.snipeitapp.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.snipeitapp.cloudronapp/versions/1.3.3/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "MDM",
+                "IT",
+                "asset",
+                "device",
+                "inventory"
+            ],
+            "title": "Snipe-IT",
+            "tagline": "Open Source IT Asset Management",
+            "apps_store_manifests": [
+                "1630d839-b479-4932-b150-0a163af81b1a"
+            ]
+        },
+        {
+            "id": "com.teamspeak.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.teamspeak.cloudronapp/versions/1.2.3/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "im",
+                "voip",
+                "voice",
+                "conference"
+            ],
+            "title": "Teamspeak Server",
+            "tagline": "Out-of-this-world VoIP solution",
+            "apps_store_manifests": [
+                "6d93d2d3-2cec-42cc-80e8-30769f2512a3"
+            ]
+        },
+        {
+            "id": "com.transmissionbt.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.transmissionbt.cloudronapp/versions/1.0.1/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "torrent",
+                "bittorrent"
+            ],
+            "title": "Transmission",
+            "tagline": "Transmission is a cross-platform BitTorrent client",
+            "apps_store_manifests": [
+                "bd1b305f-6fa0-4844-86da-6a61ab77ea96"
+            ]
+        },
+        {
+            "id": "com.valheim.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/com.valheim.cloudronapp/versions/1.0.1/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "game",
+                "multiplayer"
+            ],
+            "title": "Valheim Gameserver",
+            "tagline": "Multiplayer Server for Valheim",
+            "apps_store_manifests": [
+                "4eb6eb16-ba1f-4c84-bdc7-d1522af24f09"
+            ]
+        },
+        {
+            "id": "de.nebulon.guacamoly",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/de.nebulon.guacamoly/versions/1.13.2/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "notes",
+                "bookmarks",
+                "todo",
+                "ideas",
+                "feed",
+                "markdown"
+            ],
+            "title": "Meemo",
+            "tagline": "Your personal notes",
+            "apps_store_manifests": [
+                "73abef20-0a16-4057-94c2-9f7ccf550ce2"
+            ]
+        },
+        {
+            "id": "dev.koel.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/dev.koel.cloudronapp/versions/1.1.6/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "music",
+                "subsonic",
+                "spotify",
+                "last.fm",
+                "media"
+            ],
+            "title": "Koel",
+            "tagline": "Personal Music Streaming Server",
+            "apps_store_manifests": [
+                "981dcde4-40fd-4523-8ee0-58ea9cb59af0"
+            ]
+        },
+        {
+            "id": "dev.ophir.wbo.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/dev.ophir.wbo.cloudronapp/versions/1.10.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "collaboration",
+                "whiteboard",
+                "draw",
+                "sketch"
+            ],
+            "title": "WBO",
+            "tagline": "Online collaborative whiteboard",
+            "apps_store_manifests": [
+                "46ff63b9-d94a-4d2f-a0da-2f18da18b951"
+            ]
+        },
+        {
+            "id": "github.pages.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/github.pages.cloudronapp/versions/1.15.2/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "blog",
+                "hosting",
+                "github",
+                "pages",
+                "jekyll",
+                "website",
+                "cms",
+                "static",
+                "squarespace",
+                "wix",
+                "netlify"
+            ],
+            "title": "GitHub Pages",
+            "tagline": "Publish webpages from a git repo",
+            "apps_store_manifests": [
+                "680a2df0-4cda-4816-86ca-b9e3badf88be"
+            ]
+        },
+        {
+            "id": "im.riot.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/im.riot.cloudronapp/versions/1.7.6/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "chat",
+                "webchat",
+                "slack",
+                "matrix",
+                "synapse",
+                "teams",
+                "riot",
+                "federated"
+            ],
+            "title": "Element",
+            "tagline": "Liberate your communication",
+            "apps_store_manifests": [
+                "52d93200-7136-4a5e-b8b9-6ad473f020f1"
+            ]
+        },
+        {
+            "id": "info.privatebin.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/info.privatebin.cloudronapp/versions/1.5.1/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "privatebin",
+                "bin",
+                "secret",
+                "pastebin"
+            ],
+            "title": "PrivateBin",
+            "tagline": "A minimalist, zero knowledge pastebin",
+            "apps_store_manifests": [
+                "4a759f0d-9388-4d4d-a8d5-29c3274c230c"
+            ]
+        },
+        {
+            "id": "io.cloudron.buildservice",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.cloudron.buildservice/versions/1.4.4/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "build",
+                "docker"
+            ],
+            "title": "Cloudron Build Service",
+            "tagline": "Build Cloudron apps remotely",
+            "apps_store_manifests": [
+                "b71183fb-2e09-4756-a9ae-09f38611c1ff"
+            ]
+        },
+        {
+            "id": "io.cloudron.geoip",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.cloudron.geoip/versions/1.9.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "geoip",
+                "location",
+                "asn",
+                "geolocation",
+                "ip2asn"
+            ],
+            "title": "GeoIP Service",
+            "tagline": "Simple GeoIP location service",
+            "apps_store_manifests": [
+                "4539c41c-94a6-455f-8fa6-b7cc0eb4e554"
+            ]
+        },
+        {
+            "id": "io.cloudron.openvpn",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.cloudron.openvpn/versions/1.12.1/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "vpn",
+                "openvpn",
+                "network",
+                "wireguard"
+            ],
+            "title": "OpenVPN",
+            "tagline": "OpenVPN server and simple web interface",
+            "apps_store_manifests": [
+                "5ed0cd66-3a32-4017-a167-8d2158f3db72"
+            ]
+        },
+        {
+            "id": "io.cloudron.releasebell",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.cloudron.releasebell/versions/1.7.1/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "tags",
+                "releases",
+                "github"
+            ],
+            "title": "ReleaseBell",
+            "tagline": "Release notification service",
+            "apps_store_manifests": [
+                "62146112-e995-4a05-ba71-e81f8c75394a"
+            ]
+        },
+        {
+            "id": "io.cloudron.surfer",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.cloudron.surfer/versions/5.16.6/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "fileserver",
+                "webserver",
+                "hosting",
+                "server",
+                "ftp",
+                "sftp",
+                "webdav"
+            ],
+            "title": "Surfer",
+            "tagline": "Static file server",
+            "apps_store_manifests": [
+                "b0d5330c-ae1d-44cd-81d7-fb89595d17c0"
+            ]
+        },
+        {
+            "id": "io.commento.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.commento.cloudronapp/versions/1.1.2/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "comment",
+                "discuss",
+                "disqus"
+            ],
+            "title": "Commento",
+            "tagline": "A fast, privacy-focused commenting platform",
+            "apps_store_manifests": [
+                "5029180a-b232-47d4-a4cb-7170df50e944"
+            ]
+        },
+        {
+            "id": "io.directus9.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.directus9.cloudronapp/versions/1.2.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "cms",
+                "sql",
+                "api",
+                "contentful",
+                "strapi",
+                "netlify"
+            ],
+            "title": "Directus 9",
+            "tagline": "Data-First Headless CMS & API",
+            "apps_store_manifests": [
+                "48f2d5ff-494f-49dd-b08f-5c462c8821b1"
+            ]
+        },
+        {
+            "id": "io.gitea.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.gitea.cloudronapp/versions/1.23.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "version control",
+                "git",
+                "code hosting",
+                "development",
+                "github",
+                "bitbucket",
+                "gitlab"
+            ],
+            "title": "Gitea",
+            "tagline": "A painless self-hosted Git Service",
+            "apps_store_manifests": [
+                "9faaf4dd-f902-4aef-870b-a550f4810606"
+            ]
+        },
+        {
+            "id": "io.github.ascimoo.searx",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.github.ascimoo.searx/versions/1.6.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "search",
+                "metasearch",
+                "bing",
+                "google",
+                "duckduckgo",
+                "privacy"
+            ],
+            "title": "searx",
+            "tagline": "Privacy-respecting metasearch engine",
+            "apps_store_manifests": [
+                "de2c8895-68d5-4fe3-b9d0-c9234e36bcc0"
+            ]
+        },
+        {
+            "id": "io.github.sickchill.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.github.sickchill.cloudronapp/versions/1.3.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "tv",
+                "media",
+                "torrent"
+            ],
+            "title": "SickChill",
+            "tagline": "Automatic Video Library Manager for TV Shows",
+            "apps_store_manifests": [
+                "3432f001-57cb-416a-bd94-9e707d50fc13"
+            ]
+        },
+        {
+            "id": "io.github.thelounge",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.github.thelounge/versions/1.15.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "irc",
+                "chat",
+                "messaging"
+            ],
+            "title": "The Lounge",
+            "tagline": "IRC always connected.",
+            "apps_store_manifests": [
+                "e13184ed-eef4-4dce-b6a6-587c340160b2"
+            ]
+        },
+        {
+            "id": "io.gogs.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.gogs.cloudronapp/versions/1.15.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "version control",
+                "git",
+                "code",
+                "development",
+                "github",
+                "gitlab",
+                "bitbucket"
+            ],
+            "title": "Gogs",
+            "tagline": "A painless self-hosted Git Service",
+            "apps_store_manifests": [
+                "6b12d7d2-c529-4867-b9dc-705ed7cac388"
+            ]
+        },
+        {
+            "id": "io.hackmd.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.hackmd.cloudronapp/versions/1.15.1/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "markdown",
+                "wiki",
+                "document",
+                "collaboration",
+                "notes"
+            ],
+            "title": "HedgeDoc",
+            "tagline": "The best platform to write and share markdown",
+            "apps_store_manifests": [
+                "7c538d9e-6075-4f60-83b5-89557e50fe00"
+            ]
+        },
+        {
+            "id": "io.minio.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.minio.cloudronapp/versions/1.165.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "storage",
+                "hosting",
+                "s3",
+                "objectstore"
+            ],
+            "title": "Minio",
+            "tagline": "Distributed object storage",
+            "apps_store_manifests": [
+                "a4ae08c9-0478-4892-b118-8d005a53714f"
+            ]
+        },
+        {
+            "id": "io.n8n.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.n8n.cloudronapp/versions/1.22.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "automation"
+            ],
+            "title": "n8n",
+            "tagline": "Free and Open Workflow Automation Tool",
+            "apps_store_manifests": [
+                "6e43ee22-2294-42e7-87c3-9ae34e73c6b3"
+            ]
+        },
+        {
+            "id": "io.prometheus.alertmanager.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.prometheus.alertmanager.cloudronapp/versions/1.3.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "alert",
+                "metrics",
+                "analytics",
+                "graphs"
+            ],
+            "title": "Prometheus Alertmanager",
+            "tagline": "Alert manager for Prometheus",
+            "apps_store_manifests": [
+                "c1d09578-fef4-41de-b6ce-006f3b1c3e13"
+            ]
+        },
+        {
+            "id": "io.prometheus.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.prometheus.cloudronapp/versions/1.9.6/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "metrics",
+                "analytics",
+                "graphite",
+                "collect",
+                "graphs"
+            ],
+            "title": "Prometheus Server",
+            "tagline": "From metrics to insight",
+            "apps_store_manifests": [
+                "7b5f9cab-4e28-4f8c-9830-a6abfb1ea183"
+            ]
+        },
+        {
+            "id": "io.redash.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.redash.cloudronapp/versions/3.1.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "data",
+                "analytics",
+                "visualization"
+            ],
+            "title": "Redash",
+            "tagline": "Make Your Company Data Driven",
+            "apps_store_manifests": [
+                "a3f5b54f-532c-4142-8d12-d8d015fff111"
+            ]
+        },
+        {
+            "id": "io.taiga.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.taiga.cloudronapp/versions/2.11.1/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "scrum",
+                "kanban",
+                "project",
+                "management",
+                "agile",
+                "trello",
+                "asana",
+                "jira",
+                "basecamp",
+                "backlog",
+                "srints",
+                "issue",
+                "bug"
+            ],
+            "title": "Taiga",
+            "tagline": "Project management platform",
+            "apps_store_manifests": [
+                "db48fe73-f137-4a06-9ee0-012dc1ba940d"
+            ]
+        },
+        {
+            "id": "io.vaultproject.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.vaultproject.cloudronapp/versions/1.5.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "secret",
+                "encryption",
+                "hashicorp",
+                "password",
+                "key"
+            ],
+            "title": "Vault",
+            "tagline": "Manage Secrets and Protect Sensitive Data",
+            "apps_store_manifests": [
+                "99af2b77-80a5-4a84-9078-7ca6854b2fc7"
+            ]
+        },
+        {
+            "id": "io.vikunja.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.vikunja.cloudronapp/versions/1.0.1/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "todo",
+                "organize",
+                "kanban",
+                "trello",
+                "evernote",
+                "tasks"
+            ],
+            "title": "Vikunja",
+            "tagline": "The to-do app to organize your life.",
+            "apps_store_manifests": [
+                "99edc8a0-9cc8-443d-a8e5-6c68ea3bf02f"
+            ]
+        },
+        {
+            "id": "io.wekan.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/io.wekan.cloudronapp/versions/4.17.2/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "trello",
+                "kanban",
+                "planning",
+                "project",
+                "asana"
+            ],
+            "title": "Wekan",
+            "tagline": "The open-source Trello-like kanban",
+            "apps_store_manifests": [
+                "30241f26-4b06-4f7f-b5b7-87e5713d3881"
+            ]
+        },
+        {
+            "id": "it.kutt.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/it.kutt.cloudronapp/versions/1.0.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "bitly",
+                "url",
+                "shortener",
+                "polr",
+                "yourls"
+            ],
+            "title": "Kutt",
+            "tagline": "Modern URL Shortener",
+            "apps_store_manifests": [
+                "d21b9884-6bdb-4590-a623-b5120d88430e"
+            ]
+        },
+        {
+            "id": "lamp.cloudronapp.php74",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/lamp.cloudronapp.php74/versions/2.0.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "apache",
+                "php",
+                "mysql",
+                "hosting",
+                "lamp",
+                "stacks",
+                "development"
+            ],
+            "title": "LAMP",
+            "tagline": "An empty LAMP stack (PHP 7.4, 8.0)",
+            "apps_store_manifests": [
+                "65f8b63c-c0cc-4c58-bf3f-e4731bb4ea59"
+            ]
+        },
+        {
+            "id": "li.cica.jingo",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/li.cica.jingo/versions/1.7.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "wiki",
+                "gollum",
+                "notes"
+            ],
+            "title": "Jingo",
+            "tagline": "Git based wiki",
+            "apps_store_manifests": [
+                "a79f2c22-b95d-4253-b079-fb047c743756"
+            ]
+        },
+        {
+            "id": "louislam.uptimekuma.app",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/louislam.uptimekuma.app/versions/1.7.4/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "uptime",
+                "ping",
+                "status",
+                "pingdom",
+                "pingdown",
+                "monitoring"
+            ],
+            "title": "Uptime Kuma",
+            "tagline": "Self-hosted monitoring tool like Uptime Robot",
+            "apps_store_manifests": [
+                "4c3dd266-19e1-4904-925d-084c803f61e4"
+            ]
+        },
+        {
+            "id": "media.emby.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/media.emby.cloudronapp/versions/1.9.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "movies",
+                "mediacenter",
+                "plex",
+                "photos",
+                "videos",
+                "media"
+            ],
+            "title": "Emby",
+            "tagline": "Take your Media anywhere",
+            "apps_store_manifests": [
+                "2499a056-83c9-481a-ac1d-a388284a88f6"
+            ]
+        },
+        {
+            "id": "net.alltubedownload.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/net.alltubedownload.cloudronapp/versions/1.9.3/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "video",
+                "mp3",
+                "youtube",
+                "download"
+            ],
+            "title": "AllTube",
+            "tagline": "Webinterface for youtube-dl",
+            "apps_store_manifests": [
+                "e3518feb-91bc-4774-bdfe-61a6fb67aabf"
+            ]
+        },
+        {
+            "id": "net.freescout.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/net.freescout.cloudronapp/versions/1.7.22/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "help",
+                "helpdesk",
+                "support",
+                "tickets",
+                "zendesk",
+                "helpscout"
+            ],
+            "title": "FreeScout",
+            "tagline": "Helpdesk & Shared Mailbox",
+            "apps_store_manifests": [
+                "61c928bc-f886-41f0-b4fe-635bfc0f69db"
+            ]
+        },
+        {
+            "id": "net.jirafeau.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/net.jirafeau.cloudronapp/versions/1.2.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "share",
+                "filesharing"
+            ],
+            "title": "Jirafeau",
+            "tagline": "Select your file, upload, share a link",
+            "apps_store_manifests": [
+                "40bac090-1b7c-4b74-af2b-9324ec8f3c69"
+            ]
+        },
+        {
+            "id": "net.kanboard.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/net.kanboard.cloudronapp/versions/1.14.2/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "productivity",
+                "project management",
+                "kanban",
+                "task management",
+                "trello",
+                "wekan"
+            ],
+            "title": "Kanboard",
+            "tagline": "Simple visual task board",
+            "apps_store_manifests": [
+                "b4810b8e-a389-4857-aeae-2b511877d448"
+            ]
+        },
+        {
+            "id": "net.minecraft.bedrock.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/net.minecraft.bedrock.cloudronapp/versions/2.7.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "game",
+                "multiplayer"
+            ],
+            "title": "Minecraft Bedrock Server",
+            "tagline": "Server for Minecraft Bedrock",
+            "apps_store_manifests": [
+                "6cbff24a-2828-465a-bb5d-782e4316ad96"
+            ]
+        },
+        {
+            "id": "net.minecraft.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/net.minecraft.cloudronapp/versions/1.6.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "game",
+                "multiplayer"
+            ],
+            "title": "Minecraft Server",
+            "tagline": "Multiplayer Server for Minecraft",
+            "apps_store_manifests": [
+                "b959eb3f-b3a7-4af8-a031-e599f157b144"
+            ]
+        },
+        {
+            "id": "net.minecraftforge.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/net.minecraftforge.cloudronapp/versions/0.6.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "game",
+                "multiplayer"
+            ],
+            "title": "Minecraft Forge Server",
+            "tagline": "Multiplayer Server for Minecraft Forge",
+            "apps_store_manifests": [
+                "ba55ab58-1fbe-496c-8646-a5fbd3d02b93"
+            ]
+        },
+        {
+            "id": "net.rainloop.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/net.rainloop.cloudronapp/versions/1.14.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "webmail",
+                "mail",
+                "email",
+                "imap",
+                "smtp",
+                "gmail",
+                "fastmail"
+            ],
+            "title": "RainLoop",
+            "tagline": "Simple, modern & fast webmail",
+            "apps_store_manifests": [
+                "45a7e8ae-5207-4455-ae6f-eebc62b18e27"
+            ]
+        },
+        {
+            "id": "net.roundcube.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/net.roundcube.cloudronapp/versions/2.6.1/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "webmail",
+                "mail",
+                "email",
+                "imap",
+                "smtp",
+                "gmail",
+                "fastmail"
+            ],
+            "title": "Roundcube",
+            "tagline": "Webmail software for the masses",
+            "apps_store_manifests": [
+                "2ce5841b-97a9-4e51-9da9-4042dcfa16e0"
+            ]
+        },
+        {
+            "id": "net.syncthing.cloudronapp2",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/net.syncthing.cloudronapp2/versions/1.18.4/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "storage",
+                "sync"
+            ],
+            "title": "Syncthing",
+            "tagline": "Decentralized file synchronization",
+            "apps_store_manifests": [
+                "4a12a0cc-a2f4-431b-a55c-eb4511068fe0"
+            ]
+        },
+        {
+            "id": "nu.sogo.cloudronapp2",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/nu.sogo.cloudronapp2/versions/2.7.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "calendar",
+                "contacts",
+                "addressbook",
+                "carddav",
+                "caldav",
+                "sync",
+                "groupware",
+                "email"
+            ],
+            "title": "SOGo",
+            "tagline": "Webmail, Contacts & Calendar",
+            "apps_store_manifests": [
+                "bd9894a0-327a-4c29-887b-9f87f5ed2754"
+            ]
+        },
+        {
+            "id": "org.ampache.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.ampache.cloudronapp/versions/1.3.1/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "music player",
+                "streaming",
+                "media",
+                "mp3"
+            ],
+            "title": "Ampache",
+            "tagline": "For the love of music",
+            "apps_store_manifests": [
+                "dd36af91-3594-4ef9-a136-82d2e33b4cd6"
+            ]
+        },
+        {
+            "id": "org.apache.guacamole.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.apache.guacamole.cloudronapp/versions/1.5.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "vnc",
+                "rdp",
+                "ssh",
+                "rdesktop"
+            ],
+            "title": "Guacamole",
+            "tagline": "Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.",
+            "apps_store_manifests": [
+                "1cd5b94f-f199-41ad-800c-6824d723b240"
+            ]
+        },
+        {
+            "id": "org.bigbluebutton.greenlight.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.bigbluebutton.greenlight.cloudronapp/versions/1.0.15/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "collaboration",
+                "bbb",
+                "conference",
+                "video",
+                "call",
+                "webrtc",
+                "meeting",
+                "web meeting",
+                "zoom"
+            ],
+            "title": "Greenlight",
+            "tagline": "BigBlueButton Front-End",
+            "apps_store_manifests": [
+                "35b5026e-9afe-44fa-a53d-0c4e7d07e6c7"
+            ]
+        },
+        {
+            "id": "org.discourse.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.discourse.cloudronapp/versions/1.6.8/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "forum",
+                "collaboration",
+                "community",
+                "discourse",
+                "bb"
+            ],
+            "title": "Discourse",
+            "tagline": "Civilized discussion",
+            "apps_store_manifests": [
+                "9b0921b5-6593-48cf-99a8-be39dabe6565"
+            ]
+        },
+        {
+            "id": "org.dokuwiki.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.dokuwiki.cloudronapp/versions/1.11.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "wiki",
+                "collaboration"
+            ],
+            "title": "DokuWiki",
+            "tagline": "It's better when it's simple",
+            "apps_store_manifests": [
+                "eb9fa489-015f-4bb6-beb4-42db40b9e75b"
+            ]
+        },
+        {
+            "id": "org.dolibarr.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.dolibarr.cloudronapp/versions/1.1.4/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "dolibarr",
+                "CRM",
+                "ERP"
+            ],
+            "title": "Dolibarr",
+            "tagline": "ERP and CRM for non technical people",
+            "apps_store_manifests": [
+                "a66347eb-d96b-44d6-8709-1593e86ef925"
+            ]
+        },
+        {
+            "id": "org.easyappointments.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.easyappointments.cloudronapp/versions/1.0.3/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "appointments",
+                "organize",
+                "scheduler"
+            ],
+            "title": "Easy!Appointments",
+            "tagline": "Appointment Scheduler",
+            "apps_store_manifests": [
+                "e3780bf7-6af1-4521-9e9f-63eb3136f202"
+            ]
+        },
+        {
+            "id": "org.eggertsson.verdaccio",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.eggertsson.verdaccio/versions/1.38.2/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "npm",
+                "repository",
+                "git",
+                "artifactory"
+            ],
+            "title": "Verdaccio",
+            "tagline": "Private npm repository server",
+            "apps_store_manifests": [
+                "e6b7ead6-4435-4bda-a160-f065f1998817"
+            ]
+        },
+        {
+            "id": "org.etherpad.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.etherpad.cloudronapp/versions/3.5.5/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "document",
+                "docs",
+                "collaboration",
+                "editor",
+                "notes"
+            ],
+            "title": "Etherpad",
+            "tagline": " Collaborating in real-time",
+            "apps_store_manifests": [
+                "5e62307b-23b2-4868-a1bc-07c65b634a1b"
+            ]
+        },
+        {
+            "id": "org.fireflyiii.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.fireflyiii.cloudronapp/versions/2.2.9/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "firefly",
+                "firefly-iii",
+                "finance",
+                "accounting",
+                "money",
+                "invoices",
+                "mint",
+                "gnucash"
+            ],
+            "title": "Firefly III",
+            "tagline": "A personal finances manager",
+            "apps_store_manifests": [
+                "62498cad-ba10-4fa6-a30c-7ae3a6950fc5"
+            ]
+        },
+        {
+            "id": "org.freshrss.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.freshrss.cloudronapp/versions/1.13.2/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "rss",
+                "atom",
+                "greader",
+                "reader",
+                "news",
+                "feeds",
+                "feedly"
+            ],
+            "title": "FreshRSS",
+            "tagline": "RSS feed reader",
+            "apps_store_manifests": [
+                "5ff7d608-0a9c-43c4-856b-5470588480cf"
+            ]
+        },
+        {
+            "id": "org.getgrav.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.getgrav.cloudronapp/versions/1.5.5/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "cms",
+                "blog",
+                "weblog",
+                "wordpress",
+                "static",
+                "website",
+                "hosting"
+            ],
+            "title": "Grav",
+            "tagline": "Grav is a modern open source flat-file CMS",
+            "apps_store_manifests": [
+                "65099f4b-a9ea-4d0f-a89f-64f71894fdf1"
+            ]
+        },
+        {
+            "id": "org.ghost.cloudronapp2",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.ghost.cloudronapp2/versions/3.195.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "blog",
+                "ghost",
+                "cms",
+                "wordpress",
+                "wix",
+                "squarespace",
+                "hosting"
+            ],
+            "title": "Ghost",
+            "tagline": "Just a blogging platform",
+            "apps_store_manifests": [
+                "6ae7ebd0-9175-419a-ac8f-346bfe90d5a4"
+            ]
+        },
+        {
+            "id": "org.jellyfin.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.jellyfin.cloudronapp/versions/1.2.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "media server",
+                "netflix",
+                "media",
+                "plex"
+            ],
+            "title": "Jellyfin",
+            "tagline": "The Free Software Media System",
+            "apps_store_manifests": [
+                "6b19cff6-2c84-47d1-9aab-35de074e8af0"
+            ]
+        },
+        {
+            "id": "org.joinmastodon.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.joinmastodon.cloudronapp/versions/1.7.2/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "social",
+                "forum",
+                "chat",
+                "twitter",
+                "federated"
+            ],
+            "title": "Mastodon",
+            "tagline": "Federated social network",
+            "apps_store_manifests": [
+                "ab6c14e7-2eee-4b87-ac6b-dec276383187"
+            ]
+        },
+        {
+            "id": "org.joinpeertube.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.joinpeertube.cloudronapp/versions/2.4.1/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "video",
+                "youtube",
+                "vimeo",
+                "blog",
+                "instagram",
+                "media",
+                "federated"
+            ],
+            "title": "PeerTube",
+            "tagline": "Take back control of your videos",
+            "apps_store_manifests": [
+                "6a7e8267-6588-4899-bb1f-f902f65a51f4"
+            ]
+        },
+        {
+            "id": "org.joplinapp.cloudron",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.joplinapp.cloudron/versions/1.2.9/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "wiki",
+                "notes",
+                "evernote"
+            ],
+            "title": "Joplin Server",
+            "tagline": "Free, open source note taking app",
+            "apps_store_manifests": [
+                "982c2198-78e0-4759-9cf3-f2167ef6eb33"
+            ]
+        },
+        {
+            "id": "org.jupyter.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.jupyter.cloudronapp/versions/1.27.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "notebook",
+                "interactive computing",
+                "ipython",
+                "data science",
+                "education",
+                "cocalc"
+            ],
+            "title": "Jupyter Hub",
+            "tagline": "Open Standards for Interactive Computing",
+            "apps_store_manifests": [
+                "a8e3dfc6-a84a-4e63-8280-8b85d541c301"
+            ]
+        },
+        {
+            "id": "org.kimai.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.kimai.cloudronapp/versions/1.15.6/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "time",
+                "tracking",
+                "toggl",
+                "harvest",
+                "clockify"
+            ],
+            "title": "Kimai",
+            "tagline": "Time-tracking for everyone",
+            "apps_store_manifests": [
+                "d3c1ab2c-3de0-44c4-921b-a7b3300165d6"
+            ]
+        },
+        {
+            "id": "org.limesurvey.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.limesurvey.cloudronapp/versions/1.31.3/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "survey",
+                "polls",
+                "surveymonkey",
+                "typeform",
+                "feedback",
+                "forms"
+            ],
+            "title": "LimeSurvey CE",
+            "tagline": "Professional online surveys",
+            "apps_store_manifests": [
+                "d19011ba-77b9-4974-b035-1a447dc0fb39"
+            ]
+        },
+        {
+            "id": "org.mailtrain.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.mailtrain.cloudronapp/versions/1.8.1/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "newsletter",
+                "campaign",
+                "mail",
+                "email",
+                "mailchimp",
+                "sendgrid"
+            ],
+            "title": "Mailtrain",
+            "tagline": "Newsletter Application",
+            "apps_store_manifests": [
+                "e8c03441-40b3-4aca-91d9-2de7ba7aa801"
+            ]
+        },
+        {
+            "id": "org.matrix.synapse",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.matrix.synapse/versions/1.37.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "im",
+                "collaboration",
+                "voip",
+                "videochat",
+                "chat",
+                "slack",
+                "zulip",
+                "federated"
+            ],
+            "title": "Matrix Synapse",
+            "tagline": "Secure & decentralized communication",
+            "apps_store_manifests": [
+                "e1e39ea6-e55f-4cb4-81aa-2ac962e52fc6"
+            ]
+        },
+        {
+            "id": "org.mattermost.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.mattermost.cloudronapp/versions/1.55.0/icon",
+            "sso": null,
+            "status": "approved",
+            "tags": [
+                "chat",
+                "webchat",
+                "slack",
+                "gitter",
+                "matrix",
+                "teams"
+            ],
+            "title": "Mattermost",
+            "tagline": "Slack alternative",
+            "apps_store_manifests": [
+                "25652160-5bb3-40b8-beca-ec67fc810d71"
+            ]
+        },
+        {
+            "id": "org.mautic.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.mautic.cloudronapp/versions/2.3.4/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "marketing",
+                "email",
+                "newsletter",
+                "campaigns",
+                "mailchimp",
+                "salesforce",
+                "pipedrive"
+            ],
+            "title": "Mautic",
+            "tagline": "Marketing automation for everyone",
+            "apps_store_manifests": [
+                "b7314148-0565-4312-a14e-3e72415bc588"
+            ]
+        },
+        {
+            "id": "org.mediawiki.www.cloudronapp",
+            "iconUrl": "https://api.cloudron.io/api/v1/apps/org.mediawiki.www.cloudronapp/versions/1.16.0/icon",
+            "sso": true,
+            "status": "approved",
+            "tags": [
+                "wiki",
+                "collaboration",
+                "notes"
+            ],
+            "title": "MediaWiki",
+            "tagline": "The software behind Wikipedia",
+            "apps_store_manifests": [
+                "7b9edcdf-c73c-464c-8ac9-1546cbabc18c"
+            ]
+        }
+    ]
+}

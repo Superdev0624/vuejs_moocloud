@@ -1,0 +1,760 @@
+{
+  "data": [
+      {
+          "status": "published",
+          "popular": null,
+          "family": "shared",
+          "progress_info": [
+              {
+                  "label": "~30/40 Visite al minuto",
+                  "value": 30
+              },
+              {
+                  "label": "1 vCore Xeon Gold",
+                  "value": 20
+              },
+              {
+                  "label": "2GB RAM DDR4",
+                  "value": 10
+              },
+              {
+                  "label": "20GB SSD NVMe",
+                  "value": 10
+              }
+          ],
+          "id": "prod_JwTP1GIYy3ueDb",
+          "short_name": "Lite",
+          "prices": [
+              {
+                  "id": "price_1JIaSsKZv6pPvOhxqoiymTNW",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwTP1GIYy3ueDb",
+                  "currency": "eur",
+                  "unit_amount": 1999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JIccbKZv6pPvOhxT1TZ5sM2",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwTP1GIYy3ueDb",
+                  "currency": "chf",
+                  "unit_amount": 2399,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JIcizKZv6pPvOhx1aQMQIux",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwTP1GIYy3ueDb",
+                  "currency": "chf",
+                  "unit_amount": 25900,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JIcizKZv6pPvOhxa2BVViJs",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwTP1GIYy3ueDb",
+                  "currency": "eur",
+                  "unit_amount": 21590,
+                  "interval": "year"
+              }
+          ]
+      },
+      {
+          "status": "published",
+          "popular": null,
+          "family": "shared",
+          "progress_info": [
+              {
+                  "label": "2 vCore Epyc 2nd Gen",
+                  "value": 5
+              },
+              {
+                  "label": "8GB RAM DDR4",
+                  "value": 4
+              },
+              {
+                  "label": "80GB NVMe SSD",
+                  "value": 8
+              },
+              {
+                  "label": "Risorse Dedicate",
+                  "value": 100
+              }
+          ],
+          "id": "prod_JwVuoGYSIMIgMh",
+          "short_name": "Small",
+          "prices": [
+              {
+                  "id": "price_1JIcsUKZv6pPvOhx0pUTgSgo",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwVuoGYSIMIgMh",
+                  "currency": "eur",
+                  "unit_amount": 2499,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JIcsUKZv6pPvOhx4rmnuAWQ",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwVuoGYSIMIgMh",
+                  "currency": "chf",
+                  "unit_amount": 32387,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JIcsUKZv6pPvOhxctPKoP34",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwVuoGYSIMIgMh",
+                  "currency": "eur",
+                  "unit_amount": 26989,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JIcsUKZv6pPvOhxxPsPfQHh",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwVuoGYSIMIgMh",
+                  "currency": "chf",
+                  "unit_amount": 2999,
+                  "interval": "month"
+              }
+          ]
+      },
+      {
+          "status": "published",
+          "popular": null,
+          "family": "shared",
+          "progress_info": [
+              {
+                  "label": "2 vCore Epyc 2nd Gen",
+                  "value": 5
+              },
+              {
+                  "label": "8GB RAM DDR4",
+                  "value": 4
+              },
+              {
+                  "label": "80GB NVMe SSD",
+                  "value": 8
+              },
+              {
+                  "label": "Risorse Dedicate",
+                  "value": 100
+              }
+          ],
+          "id": "prod_JwWsgDOY0O8y82",
+          "short_name": "Small Plus",
+          "prices": [
+              {
+                  "id": "price_1JIdoNKZv6pPvOhx85GBJjnO",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwWsgDOY0O8y82",
+                  "currency": "chf",
+                  "unit_amount": 38869,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JIdoNKZv6pPvOhxb7CBTJZE",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwWsgDOY0O8y82",
+                  "currency": "eur",
+                  "unit_amount": 32389,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JIdoNKZv6pPvOhxjatFBUGs",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwWsgDOY0O8y82",
+                  "currency": "eur",
+                  "unit_amount": 2999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JIdoNKZv6pPvOhxrh0NVT67",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwWsgDOY0O8y82",
+                  "currency": "chf",
+                  "unit_amount": 3599,
+                  "interval": "month"
+              }
+          ]
+      },
+      {
+          "status": "published",
+          "popular": null,
+          "family": "shared",
+          "progress_info": [
+              {
+                  "label": "2 vCore Epyc 2nd Gen",
+                  "value": 5
+              },
+              {
+                  "label": "8GB RAM DDR4",
+                  "value": 4
+              },
+              {
+                  "label": "80GB NVMe SSD",
+                  "value": 8
+              },
+              {
+                  "label": "Risorse Dedicate",
+                  "value": 100
+              }
+          ],
+          "id": "prod_JwojPdXLMQhbkH",
+          "short_name": "Medium",
+          "prices": [
+              {
+                  "id": "price_1JIv5zKZv6pPvOhx2dRdVl2a",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_JwojPdXLMQhbkH",
+                  "currency": "eur",
+                  "unit_amount": 43199,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JIv5zKZv6pPvOhx8YWYmTbF",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwojPdXLMQhbkH",
+                  "currency": "chf",
+                  "unit_amount": 4799,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JIv5zKZv6pPvOhx8pQRGJLA",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_JwojPdXLMQhbkH",
+                  "currency": "chf",
+                  "unit_amount": 51899,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JIv5zKZv6pPvOhxy9V08Xp9",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwojPdXLMQhbkH",
+                  "currency": "eur",
+                  "unit_amount": 3999,
+                  "interval": "month"
+              }
+          ]
+      },
+      {
+          "status": "published",
+          "popular": null,
+          "family": "shared",
+          "progress_info": [
+              {
+                  "label": "2 vCore Epyc 2nd Gen",
+                  "value": 5
+              },
+              {
+                  "label": "8GB RAM DDR4",
+                  "value": 4
+              },
+              {
+                  "label": "80GB NVMe SSD",
+                  "value": 8
+              },
+              {
+                  "label": "Risorse Dedicate",
+                  "value": 100
+              }
+          ],
+          "id": "prod_JwoxN5Ugt3iJLT",
+          "short_name": "Large",
+          "prices": [
+              {
+                  "id": "price_1JIvJjKZv6pPvOhxUPZoMhUe",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwoxN5Ugt3iJLT",
+                  "currency": "eur",
+                  "unit_amount": 6599,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JIvJkKZv6pPvOhxPg90jvLe",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwoxN5Ugt3iJLT",
+                  "currency": "chf",
+                  "unit_amount": 7949,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JIvJkKZv6pPvOhxUg5lv2oo",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_JwoxN5Ugt3iJLT",
+                  "currency": "chf",
+                  "unit_amount": 85549,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JIvJkKZv6pPvOhxlr8NTHFV",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_JwoxN5Ugt3iJLT",
+                  "currency": "eur",
+                  "unit_amount": 71299,
+                  "interval": "year"
+              }
+          ]
+      },
+      {
+          "status": "published",
+          "popular": null,
+          "family": "shared",
+          "progress_info": [
+              {
+                  "label": "2 vCore Epyc 2nd Gen",
+                  "value": 5
+              },
+              {
+                  "label": "8GB RAM DDR4",
+                  "value": 4
+              },
+              {
+                  "label": "80GB NVMe SSD",
+                  "value": 8
+              },
+              {
+                  "label": "Risorse Dedicate",
+                  "value": 100
+              }
+          ],
+          "id": "prod_JwpQDuldl0QUfv",
+          "short_name": "Large Plus",
+          "prices": [
+              {
+                  "id": "price_1JIvltKZv6pPvOhx9ZH1ivgl",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwpQDuldl0QUfv",
+                  "currency": "eur",
+                  "unit_amount": 8499,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JIvmMKZv6pPvOhxmf7lVV0o",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_JwpQDuldl0QUfv",
+                  "currency": "eur",
+                  "unit_amount": 91799,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JIvmfKZv6pPvOhxurIDZgbO",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_JwpQDuldl0QUfv",
+                  "currency": "chf",
+                  "unit_amount": 10199,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JIvoAKZv6pPvOhxJ5i7v5oq",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_JwpQDuldl0QUfv",
+                  "currency": "chf",
+                  "unit_amount": 110147,
+                  "interval": "year"
+              }
+          ]
+      },
+      {
+          "status": "published",
+          "popular": null,
+          "family": "dedicated",
+          "progress_info": [
+              {
+                  "label": "2 vCore Epyc 2nd Gen",
+                  "value": 5
+              },
+              {
+                  "label": "8GB RAM DDR4",
+                  "value": 4
+              },
+              {
+                  "label": "80GB NVMe SSD",
+                  "value": 8
+              },
+              {
+                  "label": "Risorse Dedicate",
+                  "value": 100
+              }
+          ],
+          "id": "prod_KRWDucl3nINVtH",
+          "short_name": "Lite",
+          "prices": [
+              {
+                  "id": "price_1JmdAfKZv6pPvOhx9SYb6Trf",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_KRWDucl3nINVtH",
+                  "currency": "eur",
+                  "unit_amount": 9999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdAfKZv6pPvOhxHCQ6rXYU",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWDucl3nINVtH",
+                  "currency": "eur",
+                  "unit_amount": 107989,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JmdAfKZv6pPvOhxULSVF4wb",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_KRWDucl3nINVtH",
+                  "currency": "chf",
+                  "unit_amount": 11999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdAgKZv6pPvOhxklZjj6d5",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWDucl3nINVtH",
+                  "currency": "chf",
+                  "unit_amount": 129587,
+                  "interval": "year"
+              }
+          ]
+      },
+      {
+          "status": "published",
+          "popular": null,
+          "family": "dedicated",
+          "progress_info": [
+              {
+                  "label": "2 vCore Epyc 2nd Gen",
+                  "value": 5
+              },
+              {
+                  "label": "8GB RAM DDR4",
+                  "value": 4
+              },
+              {
+                  "label": "80GB NVMe SSD",
+                  "value": 8
+              },
+              {
+                  "label": "Risorse Dedicate",
+                  "value": 100
+              }
+          ],
+          "id": "prod_KRWFC1FomIJnHF",
+          "short_name": "Small",
+          "prices": [
+              {
+                  "id": "price_1JmdD0KZv6pPvOhxPeqg3E6s",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_KRWFC1FomIJnHF",
+                  "currency": "eur",
+                  "unit_amount": 14999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdD0KZv6pPvOhxfVasyJ9S",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_KRWFC1FomIJnHF",
+                  "currency": "chf",
+                  "unit_amount": 17999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdD1KZv6pPvOhx3xdu52xK",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWFC1FomIJnHF",
+                  "currency": "chf",
+                  "unit_amount": 129587,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JmdD1KZv6pPvOhxfJPhI9kX",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWFC1FomIJnHF",
+                  "currency": "eur",
+                  "unit_amount": 161989,
+                  "interval": "year"
+              }
+          ]
+      },
+      {
+          "status": "published",
+          "popular": null,
+          "family": "dedicated",
+          "progress_info": [
+              {
+                  "label": "2 vCore Epyc 2nd Gen",
+                  "value": 5
+              },
+              {
+                  "label": "8GB RAM DDR4",
+                  "value": 4
+              },
+              {
+                  "label": "80GB NVMe SSD",
+                  "value": 8
+              },
+              {
+                  "label": "Risorse Dedicate",
+                  "value": 100
+              }
+          ],
+          "id": "prod_KRWHfepX64kNFk",
+          "short_name": "Medium",
+          "prices": [
+              {
+                  "id": "price_1JmdEjKZv6pPvOhxGtX2g7gK",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_KRWHfepX64kNFk",
+                  "currency": "chf",
+                  "unit_amount": 29999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdEjKZv6pPvOhxlGxPbSGv",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_KRWHfepX64kNFk",
+                  "currency": "eur",
+                  "unit_amount": 24999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdEkKZv6pPvOhx224q08zO",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWHfepX64kNFk",
+                  "currency": "eur",
+                  "unit_amount": 269989,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JmdEkKZv6pPvOhx2lYfhPPH",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWHfepX64kNFk",
+                  "currency": "chf",
+                  "unit_amount": 323987,
+                  "interval": "year"
+              }
+          ]
+      },
+      {
+          "status": "published",
+          "popular": null,
+          "family": "dedicated",
+          "progress_info": [
+              {
+                  "label": "2 vCore Epyc 2nd Gen",
+                  "value": 5
+              },
+              {
+                  "label": "8GB RAM DDR4",
+                  "value": 4
+              },
+              {
+                  "label": "80GB NVMe SSD",
+                  "value": 8
+              },
+              {
+                  "label": "Risorse Dedicate",
+                  "value": 100
+              }
+          ],
+          "id": "prod_KRWJz14qDY7Cqn",
+          "short_name": "Large",
+          "prices": [
+              {
+                  "id": "price_1JmdGQKZv6pPvOhx3lZTJxvg",
+                  "active": true,
+                  "link": "14k17v2F6aSKfFS9AB",
+                  "Product": "prod_KRWJz14qDY7Cqn",
+                  "currency": "eur",
+                  "unit_amount": 39999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdGQKZv6pPvOhxKtibBib7",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWJz14qDY7Cqn",
+                  "currency": "chf",
+                  "unit_amount": 47999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdGRKZv6pPvOhx8m8J0P8B",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWJz14qDY7Cqn",
+                  "currency": "eur",
+                  "unit_amount": 431989,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JmdGRKZv6pPvOhxOZB4q0EP",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWJz14qDY7Cqn",
+                  "currency": "chf",
+                  "unit_amount": 518387,
+                  "interval": "year"
+              }
+          ]
+      },
+      {
+          "status": "published",
+          "popular": null,
+          "family": "dedicated",
+          "progress_info": [
+              {
+                  "label": "2 vCore Epyc 2nd Gen",
+                  "value": 5
+              },
+              {
+                  "label": "8GB RAM DDR4",
+                  "value": 4
+              },
+              {
+                  "label": "80GB NVMe SSD",
+                  "value": 8
+              },
+              {
+                  "label": "Risorse Dedicate",
+                  "value": 100
+              }
+          ],
+          "id": "prod_KRWK46FIZBR9V2",
+          "short_name": "Large Plus",
+          "prices": [
+              {
+                  "id": "price_1JmdIDKZv6pPvOhx3kV0B3ld",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWK46FIZBR9V2",
+                  "currency": "chf",
+                  "unit_amount": 83999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdIDKZv6pPvOhxMsSsV6vw",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWK46FIZBR9V2",
+                  "currency": "eur",
+                  "unit_amount": 69999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdIEKZv6pPvOhxgxls3yjf",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWK46FIZBR9V2",
+                  "currency": "eur",
+                  "unit_amount": 755989,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JmdIEKZv6pPvOhxmnrl47R2",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWK46FIZBR9V2",
+                  "currency": "chf",
+                  "unit_amount": 907187,
+                  "interval": "year"
+              }
+          ]
+      },
+      {
+          "status": "published",
+          "popular": null,
+          "family": "dedicated",
+          "progress_info": [
+              {
+                  "label": "2 vCore Epyc 2nd Gen",
+                  "value": 5
+              },
+              {
+                  "label": "8GB RAM DDR4",
+                  "value": 4
+              },
+              {
+                  "label": "80GB NVMe SSD",
+                  "value": 8
+              },
+              {
+                  "label": "Risorse Dedicate",
+                  "value": 100
+              }
+          ],
+          "id": "prod_KRWNNMPP6WQhPq",
+          "short_name": "Masive",
+          "prices": [
+              {
+                  "id": "price_1JmdKUKZv6pPvOhx2kOUQ0Vb",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWNNMPP6WQhPq",
+                  "currency": "chf",
+                  "unit_amount": 119999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdKUKZv6pPvOhxdpW6xFiF",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWNNMPP6WQhPq",
+                  "currency": "eur",
+                  "unit_amount": 1079989,
+                  "interval": "year"
+              },
+              {
+                  "id": "price_1JmdKUKZv6pPvOhxwRmNt6wS",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWNNMPP6WQhPq",
+                  "currency": "eur",
+                  "unit_amount": 99999,
+                  "interval": "month"
+              },
+              {
+                  "id": "price_1JmdKVKZv6pPvOhx2mh9bZnJ",
+                  "active": true,
+                  "link": null,
+                  "Product": "prod_KRWNNMPP6WQhPq",
+                  "currency": "chf",
+                  "unit_amount": 1295987,
+                  "interval": "year"
+              }
+          ]
+      }
+  ]
+}
